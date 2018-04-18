@@ -1,0 +1,6 @@
+//자율주행차에 대한 기본 설명 글//
+http://www.ndsl.kr/ndsl/issueNdsl/detail.do?techSq=77 
+
+// 테슬라 자율 주행(영상 처리) 영상//
+https://youtu.be/dGkDEHPSMq4
+
